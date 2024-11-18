@@ -1,5 +1,5 @@
-# Resources
+# Profile
 
-- [Learning resources](learning-resources.md)
-- [Documentation references](doc-references.md)
+- [About](learning-resources.md)
+- [Technical Skills](doc-references.md)
 - [Past work](past-work.md)
